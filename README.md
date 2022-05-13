@@ -1,4 +1,4 @@
-# WenLambo-lottery
+# WenLambo-lottery with Chainlink VRF Oracle
 
 Install NodeJS and NPM.
 
